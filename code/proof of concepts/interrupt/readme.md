@@ -6,7 +6,9 @@ Om de werking van een start/stop interrupt te demonstreren op een arduino, waari
 De code werkt als volgt: als de schakelaar wordt ingedrukt waarmee men een start of stop signaal wilt genereren, zal via de "attachInterrupt" functie de loop hardwarematig onderbroken worden. Er hoeft dus niet telkens gepolled worden in de software om te kijken of de knop al dan niet is ingedrukt.
 Als de intterupt wordt getriggerd wordt de functie "void interrupt()" uitgevoerd. Hierin wordt ter demonstratie de toestand van een led gewijzigd. Dit kan uiteraard vervangen worden door een start/stop signaal.
 
-In deze interrupt zorgt de "millis()" functie er verder voor dat er geen debouncing kan optreden bij het indrukken van de schakelaar. De interrupt moet 100 ms actief zijn alvorens de functie effectief wordt uitgevoerd. Als ons knop dus even zou trillen, en dit is korter dan 100ms, zal de functie geen meerdere keren worden uitgevoerd.
+In deze interrupt zorgt de "millis()" functie er verder voor dat er geen debouncing kan optreden bij het indrukken van de schakelaar. De interrupt moet 100 ms actief zijn alvorens de functie effectief wordt uitgevoerd. Als ons knop dus even zou trillen, zal de functie geen meerdere keren worden uitgevoerd.
+
+Vb: de knop trilt 3x met daartussen telkens 10 ms -> de functie zal maar 1x worden uitgevoerd aangezien de "if" functie zal zorgen voor een kleine delay.
 
 Het elektronisch schema voor deze schakeling ziet er als volgt uit:
 
