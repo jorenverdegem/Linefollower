@@ -7,19 +7,19 @@ lege repository die je als template kan gebruiken om een eigen repository te sta
   
 ## specifications
 
-microcontroller:
+microcontroller: ATmega32u4
 
-motors: 
+motors: Mini Micro Metal Gear Motor 6V DC - Ratio 30:1
 
-h-bridge:
+h-bridge: DRV8833 Dual Motor Driver Carrier
 
-sensors:
+sensors: QTR-8A Reflectance Sensor Array
 
-batteries:
+batteries: 18650 Li-ion batterijen
 
-wireless communication:
+wireless communication: HC-05 Bluetooth module
 
-distance sensor - motors:
+distance sensor - motors: 
 
 weight:
 
