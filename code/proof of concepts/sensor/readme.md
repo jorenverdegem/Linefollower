@@ -15,4 +15,5 @@ Vervolgens worden deze 6 sensorwaardes naast elkaar geprint op de seriële monit
 
 Een elektronisch schema is bij deze schakeling overbodig, aangezien de 6 analoge outputs van de sensoren gewoon moeten verbonden worden met de 6 analoge inputs van de arduino.
 Verder moet de sensor enkel nog gevoed worden met 5V, en moet ook de gnd worden verbonden.
-![QTR](https://github.com/jorenverdegem/Linefollower/assets/146443076/9be68fbd-9dce-4095-b5a2-5f2f3b124901)
+![QTR](https://github.com/jorenverdegem/Linefollower/assets/146443076/c9f828be-077a-4a67-9423-de6e769040ee)
+
