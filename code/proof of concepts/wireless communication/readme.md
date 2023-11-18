@@ -7,7 +7,7 @@ Als eerste zal de microcontroller een drukknop uitlezen en doorsturen naar de sm
 Anderzijds kan de toestand van de "built-in led" op de microcontroller gewijzigd worden door 2 knoppen op de smartphone.
 Als laatste is het ook mogelijk om tekstberichten van de smartphone naar de pc te sturen, en omgekeerd.
 
-## Arduinocode:
+## Arduino code:
 De arduino code ziet er als volgt uit:
 ![image](https://github.com/jorenverdegem/Linefollower/assets/146443076/3d328238-ae5c-4d85-8f55-e7cfd50c9224)
 ![image](https://github.com/jorenverdegem/Linefollower/assets/146443076/5210d55d-0bfa-46ca-a331-b6037c6f910f)
