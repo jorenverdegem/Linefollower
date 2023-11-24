@@ -16,3 +16,5 @@
 |11                |Weerstanden                             |1x1kOhm en 1x2kOhm OF 3x1kOhm         |Recup            |/                   |3       |/            |
 |12                |Dupont-draadjes                         |20xman-vrouw en 5xman-man             |Recup            |/                   |25      |/            |
 
+### Totale kostprijs: €91,62
+
