@@ -24,7 +24,11 @@ Bestel alle componenten uit de bill of materials:
 
 Verder zijn er nog een aantal andere benodigdheden, zoals houten blokjes, een houten plank en extra wielen, maar deze zijn optioneel en kunnen perfect vervangen worden door andere recup-materialen.
 
+### stap 2
+Nu we al het materiaal beschikbaar hebben, stellen we de linefollower samen. Als frame van de auto ga je best opzoek naar een houten plankje, of ander recupmateriaal die ongeveer een afmeting hebben van 160x100mm.
+Er kan voor gekozen worden om met een figuurzaag extra vorm te geven, zodat dit het frame van een gestroomlijnde wagen kan voorstellen. Dit kan uiteraard ook achteraf gebeuren.
 ![403679670_808460354413685_5912383544201351500_n](https://github.com/jorenverdegem/Linefollower/assets/146443076/feed7c43-2fa8-4d42-b192-6923e4285710)
+
 
 
 
