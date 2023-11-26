@@ -24,8 +24,6 @@ bestel alle componenten uit de bill of materials
 
 ![403625895_3664321383829692_851847983461746198_n](https://github.com/jorenverdegem/Linefollower/assets/146443076/aa911c33-f785-4f6b-847b-4d8f4b3db0f3) 
 
-![403647766_1569203267187191_374478284157019129_n](https://github.com/jorenverdegem/Linefollower/assets/146443076/267d4551-9efe-42b8-8f91-2861b06aaa8f)
-
 ![403804083_266288663098954_5267448171383346415_n](https://github.com/jorenverdegem/Linefollower/assets/146443076/a3c8a458-9a44-4903-86a6-5b314f499ed3) 
 
 ![405217240_2342251582633342_3867722100881489745_n](https://github.com/jorenverdegem/Linefollower/assets/146443076/fac74e2f-af9b-49a5-b04f-c9e2c6771c2a)
@@ -33,6 +31,8 @@ bestel alle componenten uit de bill of materials
 ![403641477_1091571545612815_5156694672164627113_n](https://github.com/jorenverdegem/Linefollower/assets/146443076/b8e49645-920f-4b37-9211-0aa776ef76b4)
 
 ![405132827_636497835104419_2663353506568405863_n](https://github.com/jorenverdegem/Linefollower/assets/146443076/206910ab-60d3-42ab-8102-bc3ff8db17fe)
+
+![403647766_1569203267187191_374478284157019129_n](https://github.com/jorenverdegem/Linefollower/assets/146443076/267d4551-9efe-42b8-8f91-2861b06aaa8f)
 
 ![400920108_895944135587999_7262908235151916565_n](https://github.com/jorenverdegem/Linefollower/assets/146443076/e1d3a3cc-2b83-4a0e-b95b-40a63d31a59b)
 
