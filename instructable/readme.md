@@ -14,11 +14,11 @@ bestel alle componenten uit de bill of materials
 
 ![404350260_309790145228844_7951685887738030043_n](https://github.com/jorenverdegem/Linefollower/assets/146443076/bc523f6a-a4cd-44c8-aa38-afd30f6adf6a)
 
-![403688872_365273492548581_5732422698806328131_n](https://github.com/jorenverdegem/Linefollower/assets/146443076/e94c658b-2e3a-458c-8b61-b7e67ce9bd96)
-
 ![405154670_3388969721320824_5026883236161777480_n](https://github.com/jorenverdegem/Linefollower/assets/146443076/7c65f37e-e2cd-4d87-99d6-0feb242dba33)
 
 ![405283208_1006741277289677_2358455657544103621_n](https://github.com/jorenverdegem/Linefollower/assets/146443076/6f2edf54-4b0a-4c79-b65c-759d0153a044)
+
+![403688872_365273492548581_5732422698806328131_n](https://github.com/jorenverdegem/Linefollower/assets/146443076/e94c658b-2e3a-458c-8b61-b7e67ce9bd96)
 
 ![405139945_312554088254143_3331511207421659937_n](https://github.com/jorenverdegem/Linefollower/assets/146443076/743c7d06-7842-4dc1-b1e1-acb5af38c558)
 
