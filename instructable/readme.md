@@ -4,7 +4,7 @@ Todo: uploaden programma hierboven
 
 
 ### stap 1
-bestel alle componenten uit de bill of materials  
+Bestel alle componenten uit de bill of materials: 
 <br />
 
 |volgnummer        |naam                                    |omschrijving                          |nieuw/recup      |kostprijs/stuk      |aantal  |subtotaal    |
@@ -22,7 +22,11 @@ bestel alle componenten uit de bill of materials
 |11                |Weerstanden                             |1x1kOhm en 1x2kOhm OF 3x1kOhm         |Recup            |/                   |3       |/            |
 |12                |Dupont-draadjes                         |20xman-vrouw en 5xman-man             |Recup            |/                   |25      |/            |
 
+Verder zijn er nog een aantal andere benodigdheden, zoals houten blokjes, een houten plank en extra wielen, maar deze zijn optioneel en kunnen perfect vervangen worden door andere recup-materialen.
+
 ![403679670_808460354413685_5912383544201351500_n](https://github.com/jorenverdegem/Linefollower/assets/146443076/feed7c43-2fa8-4d42-b192-6923e4285710)
+
+
 
 ![405333687_223592240758807_7123575042251916946_n](https://github.com/jorenverdegem/Linefollower/assets/146443076/daa8e4fe-3517-4284-bc2d-5f54fd6ee951)
 
