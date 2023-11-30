@@ -246,12 +246,12 @@ void onCmd()
   BTSerial.println("-------Possible commands:-------");
   BTSerial.println("calibrate white");
   BTSerial.println("calibrate black");
-  BTSerial.println("set cycle x (<10000");
-  BTSerial.println("set power x (0-100)");
-  BTSerial.println("set diff x (0-1)");
-  BTSerial.println("set kp x");
-  BTSerial.println("set ki x");
-  BTSerial.println("set kd x");
+  BTSerial.println("set cycle 'x' (<10000 µs");
+  BTSerial.println("set power 'x' (0...255)");
+  BTSerial.println("set diff 'x' (0...1)");
+  BTSerial.println("set kp 'x'");
+  BTSerial.println("set ki 'x'");
+  BTSerial.println("set kd 'x'");
 }
 
 void onUnknownCommand(char* command)
