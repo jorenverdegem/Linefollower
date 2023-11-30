@@ -1,6 +1,9 @@
 #include "Arduino.h"
+
 #include "SerialCommand.h"
+
 #include "EEPROMAnything.h"
+
 #include <SoftwareSerial.h>
  
 const byte rxPin = 8;
