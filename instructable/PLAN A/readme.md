@@ -19,20 +19,17 @@ Nadat we Plan B hebben samengesteld, kiezen we ervoor om het resultaat nog mooie
 |9                 |Wielhouders                             |Micro Metal Gearmotor Bracket Pair    |Nieuw            |€5,39               |1       |€5,39        |
 |10                |Wielen                                  |Polulu wheel 40x7mm Pair - Red        |Nieuw            |€7,69               |1       |€7,69        |
 
-### stap 2
-
 Nu we alle componenten hebben, kunnen we de printplaat beginnen ontwerpen. Dit werd gedaan via de website: https://easyeda.com/editor .
 Het ontwerpen van deze printplaat gebeurd in 3 stappen.
 
-1) Je tekent een elektronisch schema, waarbij je alle componenten terugzoekt in het programma. Het is belangrijk dat je de exacte componenten invoegt, zodat de afmetingen in de latere fases overeenkomen met onze componenten. Het elektrisch schema dat ik heb ontworpen is terug te vinden via de volgende link: https://github.com/jorenverdegem/Linefollower/tree/main/technische%20tekeningen/elektronisch/planA . Hierbij kan de JSON worden gebruikt om rechtsreeks in het programma te voegen, dan hoef je het schema niet meer zelf te tekenen.
+### stap 2
+
+Je tekent een elektronisch schema, waarbij je alle componenten terugzoekt in het programma. Het is belangrijk dat je de exacte componenten invoegt, zodat de afmetingen in de latere fases overeenkomen met onze componenten. Het elektrisch schema dat ik heb ontworpen is terug te vinden via de volgende link: https://github.com/jorenverdegem/Linefollower/tree/main/technische%20tekeningen/elektronisch/planA . Hierbij kan de JSON worden gebruikt om rechtsreeks in het programma te voegen, dan hoef je het schema niet meer zelf te tekenen.
 
 ## !BELANGRIJK! 
 De component "DRV8833" staat verkeerd getekend in dit programma. De gaatjes voor de pinnen zijn te klein, en de component is 5 mm te dik getekend. Je gaat hier dus best opzoek naar de juiste component, of past de tekening aan zodat ze overeen komt met de afmetingen uit de datasheet.
 
-2) 
-3) 
-
-
+### stap 3
 
 
 (wordt vervolgt)
