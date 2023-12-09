@@ -18,6 +18,7 @@ Nadat we Plan B hebben samengesteld, kiezen we ervoor om het resultaat nog mooie
 |8                 |Bluetooth Module                        |HC-05                                 |Recup            |€11,96              |1       |€11,96       |
 |9                 |Wielhouders                             |Micro Metal Gearmotor Bracket Pair    |Nieuw            |€5,39               |1       |€5,39        |
 |10                |Wielen                                  |Polulu wheel 40x7mm Pair - Red        |Nieuw            |€7,69               |1       |€7,69        |
+|11                |Pinheaders                              |                                      |Recup            |/                   |40      |/            |
 
 Nu we alle componenten hebben, kunnen we de printplaat beginnen ontwerpen. Dit werd gedaan via de website: https://easyeda.com/editor .
 Het ontwerpen van deze printplaat gebeurd in 3 stappen.
@@ -31,5 +32,16 @@ De component "DRV8833" staat verkeerd getekend in dit programma. De gaatjes voor
 
 ### stap 3
 
+Nadat je het elektronisch schema hebt gemaakt, en gecontroleerd hebt dat alles correct is aangesloten kan je beginnen aan het mechanisch ontwerp. Hierbij kies je waar welke component staat op de printplaat, en kan je ook de vorm aanpassen. Mijn mechanische tekening is terug te vinden via de volgende link: https://github.com/jorenverdegem/Linefollower/blob/main/technische%20tekeningen/elektronisch/planA/readme.md .
 
-(wordt vervolgt)
+### stap 4
+
+Als laatste ga je op de mechanische tekening de verbindingen tekenen. Je kan dit automatisch laten genereren, maar ik raad aan om handmatig de verbindingen te leggen. Zo controleer je zelf nog eens of alles goed zit aangesloten. Mijn uiteindelijke PCB ontwerp is te vinden via de volgende link: https://github.com/jorenverdegem/Linefollower/tree/main/technische%20tekeningen/elektronisch/planA .
+
+### stap 5
+
+Nu alles is getekend kan je de pcb bestellen en hem laten maken. Dit alles duurt tussen de 1 à 2 weken.
+
+### stap 6
+
+Als de printplaat is toegekomen kan je starten met het solderen van je componenten.
