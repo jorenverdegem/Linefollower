@@ -71,6 +71,8 @@ In de voorlaatste stap zetten we de arduino op de twee houten blokjes, die we op
 
 ![image](https://github.com/jorenverdegem/Linefollower/assets/146443076/a4b4eb02-db5e-4f55-979f-d4512fc759f4)
 
+(In dit schema worden nog 2 weerstanden gebruikt om de spanning voor de bluetooth module te beperken. Na wat onderzoek op het internet bleek dit niet nodig te zijn, dus mag deze rechtsreeks verbonden worden met de pin op de arduino.)
+
 ![405132827_636497835104419_2663353506568405863_n](https://github.com/jorenverdegem/Linefollower/assets/146443076/206910ab-60d3-42ab-8102-bc3ff8db17fe)
 
 De 3 kroonklemmen kunnen opnieuw met houtlijm worden vastgeplakt op de voorzijde van het frame. Als extra optie kunnen ook twee extra wielen worden gemonteerd aan de voorzijde. Je kan er ook voor kiezen om de auto te laten slepen.
