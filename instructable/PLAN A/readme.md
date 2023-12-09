@@ -20,4 +20,4 @@ Nadat we Plan B hebben samengesteld, kiezen we ervoor om het resultaat nog mooie
 |10                |Wielen                                  |Polulu wheel 40x7mm Pair - Red        |Nieuw            |€7,69               |1       |€7,69        |
 
 ### stap 2
-Nu we al het materiaal beschikbaar hebben, stellen we de linefollower samen.
+(wordt vervolgt)
