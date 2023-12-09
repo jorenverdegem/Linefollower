@@ -1,6 +1,6 @@
 # Instructable
 
-Nadat we Plan b hebben samengesteld, kiezen we ervoor om het resultaat nog 
+Nadat we Plan B hebben samengesteld, kiezen we ervoor om het resultaat nog mooier afwerken. Het idee is om een printplaat te ontwerpen, die kan dienen als frame voor onze wagen. Hierbij zullen dus geen dupon meer nodig zijn, wat zal zorgen voor een mooier afgewerkt geheel. Op de printplaat zorgen we dus voor alle connecties tussen de verschillende componenten, met bijhorende gaten zodat we onze componenten hierop kunnen solderen.
 
 ### stap 1
 
@@ -18,10 +18,6 @@ Nadat we Plan b hebben samengesteld, kiezen we ervoor om het resultaat nog
 |8                 |Bluetooth Module                        |HC-05                                 |Recup            |€11,96              |1       |€11,96       |
 |9                 |Wielhouders                             |Micro Metal Gearmotor Bracket Pair    |Nieuw            |€5,39               |1       |€5,39        |
 |10                |Wielen                                  |Polulu wheel 40x7mm Pair - Red        |Nieuw            |€7,69               |1       |€7,69        |
-|11                |Weerstanden                             |1x1kOhm en 1x2kOhm OF 3x1kOhm         |Recup            |/                   |3       |/            |
-|12                |Dupont-draadjes                         |20xman-vrouw en 5xman-man             |Recup            |/                   |25      |/            |
-
-Verder zijn er nog een aantal andere benodigdheden, zoals houten blokjes, een houten plank en extra wielen, maar deze zijn optioneel en kunnen perfect vervangen worden door andere recup-materialen.
 
 ### stap 2
 Nu we al het materiaal beschikbaar hebben, stellen we de linefollower samen.
