@@ -18,8 +18,7 @@ Bestel alle componenten uit de bill of materials:
 |8                 |Bluetooth Module                        |HC-05                                 |Recup            |€11,96              |1       |€11,96       |
 |9                 |Wielhouders                             |Micro Metal Gearmotor Bracket Pair    |Nieuw            |€5,39               |1       |€5,39        |
 |10                |Wielen                                  |Polulu wheel 40x7mm Pair - Red        |Nieuw            |€7,69               |1       |€7,69        |
-|11                |Weerstanden                             |1x1kOhm en 1x2kOhm OF 3x1kOhm         |Recup            |/                   |3       |/            |
-|12                |Dupont-draadjes                         |20xman-vrouw en 5xman-man             |Recup            |/                   |25      |/            |
+|11                |Dupont-draadjes                         |20xman-vrouw en 5xman-man             |Recup            |/                   |25      |/            |
 
 Verder zijn er nog een aantal andere benodigdheden, zoals houten blokjes, een houten plank en extra wielen, maar deze zijn optioneel en kunnen perfect vervangen worden door andere recup-materialen.
 
