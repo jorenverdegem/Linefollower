@@ -1,8 +1,8 @@
-# LineFollower
+# LineFollower PLAN B:
 
+![400920108_895944135587999_7262908235151916565_n](https://github.com/jorenverdegem/Linefollower/assets/146443076/e9a753f2-f539-489d-8ccc-e3d57431a970)
 
-![A description of my image](images/empty.png)
-
+# LineFollower PLAN A:
   
 ## specifications
 
