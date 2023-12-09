@@ -1,10 +1,10 @@
-#include "Arduino.h"
+ #include "Arduino.h"
 #include "SerialCommand.h"
 #include "EEPROMAnything.h"
 #include <SoftwareSerial.h>
  
-const byte rxPin = 8;
-const byte txPin = 9;
+const byte rxPin = 9;
+const byte txPin = 8;
 #define Baudrate 9600
 
 #define MotorLeftForward 10
@@ -69,7 +69,7 @@ void loop()
   int index = 0;
   float position;
   for (int i=1; i < 6; i++) if (normalised[i] < normalised[index]) index = i;
-  if (normalised[index] > 750) run = false;
+
   if (index == 0) position = -20;
   else if (index == 5) position = 20;
   else
