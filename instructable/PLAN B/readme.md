@@ -1,5 +1,7 @@
 # Instructable
 
+Vooraleer we aan ons plan A beginnen, testen we eerst ons programma en de wagen zonder een printplaat te bestellen. In deze instructable wordt stap voor stap beschreven hoe we alle componenten samenstellen, met een werkende wagen als resultaat.
+
 ### stap 1
 Bestel alle componenten uit de bill of materials: 
 <br />
