@@ -1,8 +1,5 @@
 # Instructable
 
-Todo: uploaden programma hierboven
-
-
 ### stap 1
 Bestel alle componenten uit de bill of materials: 
 <br />
