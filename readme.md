@@ -18,9 +18,9 @@ batteries: 18650 Li-ion batterijen
 
 wireless communication: HC-05 Bluetooth module
 
-distance sensor - motors: 
+distance sensor - motors: 70 mm
 
-weight:
+weight: 155 g
 
-speed: 
+speed:
 
