@@ -65,6 +65,7 @@ Zo was bij mij het geval dat een van de motoren kapot was gegaan. Deze werd zeer
 
 Indien je net zoals mij de fout hebt gemaakt om de component "DRV8833" zonder aanpassen in het pcb programma te gebruiken, kan je de component toch nog solderen aan de hand van vrouwelijke pinheaders, die wat schuin worden geplaatst. Het resultaat oogt iets minder mooi, maar ziet er als volgt uit:
 
+![377144747_2392994354217988_3845947637720984982_n](https://github.com/jorenverdegem/Linefollower/assets/146443076/9ef0b71b-e06e-4fb7-be87-d8fc30622752)
 
 
 ### stap 7
