@@ -29,6 +29,7 @@ Je tekent een elektronisch schema, waarbij je alle componenten terugzoekt in het
 
 ## !BELANGRIJK! 
 De component "DRV8833" staat verkeerd getekend in dit programma. De gaatjes voor de pinnen zijn te klein, en de component is 5 mm te dik getekend. Je gaat hier dus best opzoek naar de juiste component, of past de tekening aan zodat ze overeen komt met de afmetingen uit de datasheet.
+Let er verder ook op dat je de QTR-8A sensor niet perfect in het midden plaatst! Wij maken enkel gebruik van de eerste 6 sensoren (want een arduino heeft maar 6 analoge inputs), waardoor het midden van de sensor zich op een andere positie bevindt. Zorg dat dit overeenkomt!
 
 ### stap 3
 
@@ -42,6 +43,37 @@ Als laatste ga je op de mechanische tekening de verbindingen tekenen. Je kan dit
 
 Nu alles is getekend kan je de pcb bestellen en hem laten maken. Dit alles duurt tussen de 1 à 2 weken.
 
+#### Resultaat:
+
+![403398636_370587428807641_8804265821271583842_n](https://github.com/jorenverdegem/Linefollower/assets/146443076/437ea987-e8e1-4fa4-93a5-b4c21e8f9117)
+
+![386886413_1037275554153914_3952061519202620705_n](https://github.com/jorenverdegem/Linefollower/assets/146443076/0688d75c-3f29-4372-9f19-a29cb6ce4ca0)
+
+
 ### stap 6
 
 Als de printplaat is toegekomen kan je starten met het solderen van je componenten.
+- Waar de arduino komt, soldeer je pinheaders. Op deze manier kan je de arduino er steeds opklikken en weer afhalen.
+- De QTR-8A sensor soldeer je aan de onderkant van de printplaat, zodat de sensoren naar de grond kijken.
+- De batterijhouder kan je vastkleven met stevige lijm tegen de printplaat. De 2 draadjes soldeer je vast op de voorziene metalen vierkantjes.
+- De bluetoothmodule kan je rechtopstaand solderen. Zorg ervoor dat de pinnen (zoals vcc en gnd) overeenkomen met de juiste gaatjes op de pcb.
+- De motoren maak je vast met de bijhorende beugels, de gaatjes zijn hiervoor perfect gepositioneerd.
+- De H-brug soldeer je ook vast op de correcte plek
+
+Als alles goed vast zit kan je het geheel opnieuw beginnen testen. Indien er iets misloopt is het interessant om de proof of concepts er weer bij te halen en alles terug afzonderlijk te testen.
+Zo was bij mij het geval dat een van de motoren kapot was gegaan. Deze werd zeer warm en draaide niet meer bij zeer lage snelheden. Ook als de reductie ervan tussen werd gehaald deden dezelfde problemen zich voor.
+
+Indien je net zoals mij de fout hebt gemaakt om de component "DRV8833" zonder aanpassen in het pcb programma te gebruiken, kan je de component toch nog solderen aan de hand van vrouwelijke pinheaders, die wat schuin worden geplaatst. Het resultaat oogt iets minder mooi, maar ziet er als volgt uit:
+
+
+
+### stap 7
+
+Proficiat! Nu alles werkt heb je een werkend geheel! Nu de wagen tot leven is gekomen kan je gaan spelen met de verschillende parameters, tot je het snelheidsrecord breekt!
+Om het geheel helemaal af te werken kan je er eventueel ook een spoiler op monteren. Een getekende spoiler die kan worden afgedrukt met een 3D printer is te vinden via de volgende link:
+https://github.com/jorenverdegem/Linefollower/tree/main/technische%20tekeningen/mechanisch 
+Deze kan worden gemonteerd aan de onderkant van de pcb, met dezelfde vijsjes als waarmee de motoren zijn gemonteerd.
+
+### eindresultaat
+
+
