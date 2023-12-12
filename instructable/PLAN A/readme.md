@@ -75,6 +75,8 @@ Om het geheel helemaal af te werken kan je er eventueel ook een spoiler op monte
 https://github.com/jorenverdegem/Linefollower/tree/main/technische%20tekeningen/mechanisch 
 Deze kan worden gemonteerd aan de onderkant van de pcb, met dezelfde vijsjes als waarmee de motoren zijn gemonteerd.
 
-### eindresultaat
+### eindresultaat:
+
+![398428672_725404612801147_6601868790741897883_n](https://github.com/jorenverdegem/Linefollower/assets/146443076/36fac265-6aeb-4241-9f9e-2fd9b982a569)
 
 
