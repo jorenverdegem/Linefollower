@@ -6,7 +6,7 @@
 
 ![398428672_725404612801147_6601868790741897883_n](https://github.com/jorenverdegem/Linefollower/assets/146443076/c5f05006-9297-4ebb-87b2-15f40936a4c7)
 
-## specifications
+## specifications (Plan A)
 
 microcontroller: ATmega32u4
 
@@ -22,7 +22,7 @@ wireless communication: HC-05 Bluetooth module
 
 distance sensor - motors: 70 mm
 
-weight: 155 g
+weight: 182 g
 
 speed:
 
