@@ -4,5 +4,7 @@ https://github.com/jorenverdegem/Linefollower/assets/146443076/7db539b1-5014-4cc
 
 ## resultaten plan A:
 
+https://github.com/jorenverdegem/Linefollower/assets/146443076/3100eb84-6c1c-4927-8e89-c5956f6eee93
+
 
 
